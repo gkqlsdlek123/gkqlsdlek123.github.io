@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: AWS 시스템 설계와 마이그레이션
+subtitle: ELB, DB Master/Slave, AutoScaling
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [AWS]
 comments: true
 ---
 
