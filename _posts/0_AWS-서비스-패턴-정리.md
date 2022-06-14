@@ -1,3 +1,14 @@
+---
+layout: post
+title: AWS 시스템 설계와 마이그레이션
+subtitle: ELB, DB Master/Slave, AutoScaling
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [AWS]
+comments: true
+---
+
+
 > 출처 [AWS 시스템 설계와 마이그레이션](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158391201&orderClick=LAG&Kc=)을 보고 정리한 내용입니다.
 
 # 목차
