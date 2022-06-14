@@ -1,5 +1,7 @@
 ---
 layout: post
+published: true
+date: '2022-06-14'
 title: AWS 시스템 설계와 마이그레이션
 subtitle: ELB, DB Master/Slave, AutoScaling
 gh-repo: daattali/beautiful-jekyll
