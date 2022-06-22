@@ -8,12 +8,12 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/"
+  baseURL: "https://www.facebook.com/hirabinny/"
   icon: "fa-facebook"
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: "https://github.com/gkqlsdlek123"
   icon: "fa-github"
 
 twitter:
@@ -28,7 +28,7 @@ reddit:
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+  baseURL: "mailto:duddhks9244@gmail.com"
   icon: "fa-envelope"
 
 linkedin:
@@ -53,7 +53,7 @@ snapchat:
 
 instagram:
   name: "Instagram"
-  baseURL: "https://www.instagram.com/"
+  baseURL: "https://www.instagram.com/hbinny_2/"
   icon: "fa-instagram"
 
 youtube:
