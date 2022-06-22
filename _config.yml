@@ -56,7 +56,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: kimhabin
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -96,13 +96,13 @@ url-pretty: "habin.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-93QYTWWEW7"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+# google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-MDLKZRJ"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
