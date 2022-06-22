@@ -5,6 +5,7 @@ subtitle: ELB, DB Master/Slave, AutoScaling
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [AWS]
+categories: [aws]
 comments: true
 ---
 
